@@ -15,23 +15,22 @@ body{
 	margin: auto;
 	margin-top: 100px;
 	border-radius: 10px;
-
 }
+
 .content .content-top {
 	height: 12px;
 	background-image: url(img/content-bg.png);
 	background-position: 0px,0px;
-
 }
+
 .content .content-bottom {
 	height: 12px;
 	background-image: url(img/content-bg.png);
 	background-position: -840px,0px;
-
 }
+
 .content .content-middle {
 	padding: 20px 30px;
-
 }
 	
 h1 {
@@ -41,6 +40,7 @@ h1 {
 	font-weight: normal;
 	padding-bottom: 10px;
 }
+
 h2 {
 	font-size: 18px;
 	line-height: 28px;
@@ -70,7 +70,6 @@ div.block-2 {
 	background-image: url(img/picture-1.png);
 	background-repeat: no-repeat;
 	background-position: bottom right;
-
 }
 
 a.button {
@@ -81,11 +80,12 @@ a.button {
 	text-decoration: none;
 	background-repeat: no-repeat;
 	background-position: 0px 0px;
-
 }
+
 a.button:hover {
 	background-position: 0px, 20px;
 }
+
 a.button:active {
 	background-position: 0px, 40px;
 }
